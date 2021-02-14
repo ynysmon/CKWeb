@@ -198,6 +198,7 @@ figure {
 
 img {
   vertical-align: middle;
+  max-width:100%
   border-style: none;
 }
 
@@ -478,6 +479,15 @@ mark,
   max-width: 100%;
   height: auto;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
+
 
 .img-thumbnail {
   padding: 0.25rem;
